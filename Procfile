@@ -1,1 +1,1 @@
-web: sh target/appassembler/bin/webapp
+web: sh target/bin/webapp
