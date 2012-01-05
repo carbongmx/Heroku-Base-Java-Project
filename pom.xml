@@ -20,7 +20,7 @@
 				<assembleDirectory>target</assembleDirectory>
 				<programs>
 					<program>
-						<mainClass>com.whiterabbit.HelloWorld</mainClass>
+						<mainClass>com.whiterabbit.WebServerBootstrap</mainClass>
 						<name>webapp</name>
 					</program>
 				</programs>
